@@ -15,7 +15,7 @@
 
     <!-- navigation for website-->
     <div class="nav-menu">
-        <li><a href="https://agidak.github.io/Projec-1-Leaflet/">Project 1</a>
+        <li><a href="https://agidak.github.io/Projec-1-Leaflet/">Project 1</a></li>
         <a href="#project2">Project 2</a>
         <a href="#project3">Project 3</a>
     </div><br>
